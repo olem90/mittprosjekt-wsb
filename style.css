@@ -1,0 +1,46 @@
+body { background-color: gold;
+
+font-family: sans-serif;
+   }
+
+
+h1 {
+  text-align: center;
+color: green;
+
+}
+p  {
+color: grey;
+text-align: center;
+}
+
+
+
+h3 {   text-align: center;
+
+
+}
+.sitat  { font-weight: bold;
+  font-style: italic;
+  font-size: 50px
+  }
+
+.overskrift { margin-top: 50px
+  }
+
+.bilde {
+  width: 400px;
+  border-radius: 50%;
+  border-color: grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px
+}
+
+.legend {
+  font: italic
+  font-size: 30px
+}
